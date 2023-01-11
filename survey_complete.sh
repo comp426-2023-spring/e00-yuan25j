@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=angry dog shoes hummus 9378ab
 
 echo ${EXAMCODE}
